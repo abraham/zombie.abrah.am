@@ -1,4 +1,5 @@
 body { margin-top: 1.0em; font-family: "Helvetica,Arial,FreeSans"; }
+audio { width: 332px; }
 #container { margin: 0 auto; width: 404px; }
 #share { margin: 0 auto; width: 350px; }
 h1 { font-size: 3.8em; margin-bottom: 3px; }
